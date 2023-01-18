@@ -1,0 +1,292 @@
+.numbers{
+    background-color: #A92E49;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    padding: 15px 0px;
+    max-width: 100%;
+}
+.numbers .row{
+    margin: 10px 0px;
+}
+.numbers h2{
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+.numbers h7{
+    color: #fff;
+text-transform: uppercase; 
+font-weight: bold;
+letter-spacing: 1px;
+
+}
+.pride{
+    background-color:transparent;
+    height: auto;
+    overflow: hidden;
+    padding: 15px 0px;
+    max-width: 100%;
+    margin-top: 50px;
+}
+.pride img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.pride h2{
+    font-size: 35px;
+    color: #A92E49;
+    font-weight: bold;
+    margin: 10px 0px;
+    width: 80%;
+    line-height: 50px;
+}
+.pride p{
+    font-size: 17px;
+    line-height: 35px;
+    color: #333;
+    margin-top: 15px;
+}
+.pride button{
+    background-color: #A92E49;
+    border: 1px solid #A92E49 ;
+    text-align: center;
+    width: 140px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-top: 20px;
+
+
+}
+.pride button a{
+    display: block;
+    color:#fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.pride button:hover a{
+    color: #A92E49;
+    transition: -2s ease;
+}
+.pride button:hover{
+    background-color: #fff;
+}
+/*ingredints..........*/
+
+.ingredints{
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 15px 0px;
+    max-width: 100%;
+    margin-top: 50px;
+}
+.ingredints img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.ingredints h2{
+    font-size: 35px;
+    color: #A92E49;
+    font-weight: bold;
+    margin: 10px 0px;
+    width: 80%;
+    line-height: 50px;
+}
+.ingredints p{
+    font-size: 17px;
+    line-height: 35px;
+    color: #333;
+    margin-top: 15px;
+}
+.ingredints ul li{
+    list-style-type: square;
+    color: #333;
+    margin-top: 10px;
+}
+.ingredints button{
+    background-color: #A92E49;
+    border: 1px solid #A92E49 ;
+    text-align: center;
+    width: 140px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-top: 20px;
+
+
+}
+.ingredints button a{
+    display: block;
+    color:#fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ingredints button:hover a{
+    color: #A92E49;
+    transition: -2s ease;
+}
+.ingredints button:hover{
+    background-color: #fff;
+}
+/*.....css for paralex....*/
+.paralex{
+    background: url('../../assets/11.jpg') center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    padding: 30px 0px;
+    text-align: center;
+}
+.paralex h2{
+    font-size: 35px;
+    color: #A92E49;
+    font-weight: bold;
+    margin: 10px 0px;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    margin: 20px 0px;
+}
+.paralex p{
+    color: #333;
+    margin: 20px 0px;
+    line-height: 32px;
+}
+.paralex a{
+    color: #A92E49;
+    margin: 20px 0px;
+    text-decoration: none;
+}
+
+.blog{
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+.blog .row:first-child{
+    text-align: center;
+     margin: 25px 0px;
+}
+.blog h2{
+    font-size: 50px;
+    color: #43121D;
+    font-weight: bold;
+    width: 100%;
+    line-height: 50px;
+    margin: 20px 0px;
+}
+.blog p{
+    font-size: 19px;
+    color: #555;
+    margin: 20px 0px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.blog img{
+    max-width: 100%;
+}
+
+.blog box{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid rgb(218, 49, 49);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.blog .box h5{
+    color: #A92E49;
+    font-size: 16px;
+    margin: 10px 0px;
+}
+.blog.box span{
+    display: block;
+    color: #444;
+    font-size: 16px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    
+}
+.blog .box h6{
+    color: #270c12;
+    font-size: 22px;
+}
+
+.blog button{
+    background-color: #A92E49;
+    border: 1px solid #A92E49 ;
+    text-align: center;
+    width: 140px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-top: 20px;
+
+
+}
+.blog button a{
+    display: block;
+    color:#fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.blog button:hover a{
+    color: #A92E49;
+    transition: -2s ease;
+}
+.blog button:hover{
+    background-color: #fff;
+}
+
+.slider{
+    background-color:#A92E49;
+    width: 100%;
+    max-width: 100%;
+    border: 1px solid #A92E49;
+    text-align: center;
+    padding: 25px 0px;
+}
+.slider h2{
+    color: #fff;
+    font-weight: bold;
+}
+
+.slider .carousel{
+    background-color: #fff;
+    padding: 20px 0px;
+    margin:40px 0px;
+    border-radius: 10px;
+}
+.slider img{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 150px;
+}
+
+.slider .carousel-caption p{
+    color: #121212 !important;
+    size: 17px;
+    line-height: 30px;
+}
+.slider .carousel-caption span{
+    color: #A92E49 !important;
+    text-transform: uppercase;
+    font-size: 17px !important;
+
+}
+.carousel-control-next, .carousel-control-prev{
+    color: #121212;
+}
+

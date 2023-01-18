@@ -1,0 +1,25 @@
+nav {
+    background-color: #FFF;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+
+}
+nav  a {
+    color: #d8325c !important;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+nav #last{
+    background-color: #d8325c;
+    border: 1px solid #d8325c ;
+    color: #FFF !important;
+}
+
+nav img{
+    max-width: 90%;
+    height: 80%;
+}
+
